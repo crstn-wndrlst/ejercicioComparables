@@ -43,7 +43,7 @@ public class AppVehiculos {
         ComparadorPorAnio miComparador = new ComparadorPorAnio() {	
         }; //Ahí va la clase anónima
         
-        	
+        //Un comentario nuevo	
         
     }
 }
